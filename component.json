@@ -1,6 +1,10 @@
 {
   "name": "stitch-utils",
   "version": "0.1.0",
+  "description": "Utility classes, functions and mixins",
   "author": "Anthony Short",
-  "main": "_stitch-utils.sass"
+  "repo": "anthonyshort/stitch-utils",
+  "files": [
+    "index.sass"
+  ]
 }
